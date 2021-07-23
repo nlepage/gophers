@@ -1,5 +1,11 @@
 # Gophers 🐻
 
+Hey 👋! Here are some drawings I have been using for [talks about Golang](https://talks.lepage.dev).
+
+These are mainly [gophers](#gophers), but also some [dukes](#dukes), and [miscellaneous](#miscellaneous).
+
+See [License](#license) for license information.
+
 ## Gophers
 
 [![alien_gopher.png](https://raw.githubusercontent.com/nlepage/gophers/main/thumbnails/gophers/alien_gopher.png)](https://github.com/nlepage/gophers/blob/main/gophers/alien_gopher.png)
