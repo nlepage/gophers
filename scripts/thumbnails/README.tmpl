@@ -1,10 +1,9 @@
 # Gophers 🐻
 {{range $folder := .folders}}
 ## {{$folder.PrettyName}}
-
-|     |     |     |     |
-| --- | --- | --- | --- |{{range $index, $file := $folder.Files}}{{if mod $index 4}}
-|{{end}}[![{{$file}}](https://raw.githubusercontent.com/nlepage/gophers/main/thumbnails/{{$folder.Name}}/{{$file}})](https://github.com/nlepage/gophers/blob/main/{{$folder.Name}}/{{$file}})|{{end}}{{end}}
+{{range $index, $file := $folder.Files}}
+[![{{$file}}](https://raw.githubusercontent.com/nlepage/gophers/main/thumbnails/{{$folder.Name}}/{{$file}})](https://github.com/nlepage/gophers/blob/main/{{$folder.Name}}/{{$file}}){{end}}
+{{end}}
 ## License
 
 Gophers © 2021 by Nicolas Lepage is licensed under Attribution-NonCommercial-ShareAlike 4.0 International.

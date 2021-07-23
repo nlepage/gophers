@@ -35,7 +35,7 @@ var (
 func main() {
 	findRoot()
 	listFiles()
-	// generateThumbnails()
+	generateThumbnails()
 	generateReadme()
 }
 
@@ -92,7 +92,7 @@ func generateThumbnail(folder *folder, file string) {
 		log.Fatal(err)
 	}
 
-	timg := resize.Thumbnail(128, 128, img, resize.NearestNeighbor)
+	timg := resize.Thumbnail(196, 196, img, resize.NearestNeighbor)
 
 	tf, err := os.OpenFile(filepath.Join(root, "thumbnails", folder.Name, file), os.O_WRONLY|os.O_CREATE|os.O_TRUNC, 0755)
 	if err != nil {
@@ -107,8 +107,6 @@ func generateThumbnail(folder *folder, file string) {
 
 func generateReadme() {
 	var readmeTmpl = template.New("readme")
-
-	readmeTmpl.Funcs(template.FuncMap{"mod": func(i, j int) bool { return i%j == 0 }})
 
 	if _, err := readmeTmpl.Parse(readme); err != nil {
 		log.Fatal(err)
