@@ -69,6 +69,7 @@ See [License](#license) for license information.
 [![old_gopher.png](https://raw.githubusercontent.com/nlepage/gophers/main/thumbnails/gophers/old_gopher.png)](https://github.com/nlepage/gophers/blob/main/gophers/old_gopher.png)
 [![old_gopher_crying.png](https://raw.githubusercontent.com/nlepage/gophers/main/thumbnails/gophers/old_gopher_crying.png)](https://github.com/nlepage/gophers/blob/main/gophers/old_gopher_crying.png)
 [![old_gopher_shouting.png](https://raw.githubusercontent.com/nlepage/gophers/main/thumbnails/gophers/old_gopher_shouting.png)](https://github.com/nlepage/gophers/blob/main/gophers/old_gopher_shouting.png)
+[![robogopher.png](https://raw.githubusercontent.com/nlepage/gophers/main/thumbnails/gophers/robogopher.png)](https://github.com/nlepage/gophers/blob/main/gophers/robogopher.png)
 [![scheduler.png](https://raw.githubusercontent.com/nlepage/gophers/main/thumbnails/gophers/scheduler.png)](https://github.com/nlepage/gophers/blob/main/gophers/scheduler.png)
 [![scheduler_2.png](https://raw.githubusercontent.com/nlepage/gophers/main/thumbnails/gophers/scheduler_2.png)](https://github.com/nlepage/gophers/blob/main/gophers/scheduler_2.png)
 [![scheduler_open_mouth.png](https://raw.githubusercontent.com/nlepage/gophers/main/thumbnails/gophers/scheduler_open_mouth.png)](https://github.com/nlepage/gophers/blob/main/gophers/scheduler_open_mouth.png)
