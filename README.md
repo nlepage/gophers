@@ -83,6 +83,10 @@ See [License](#license) for license information.
 [![trampoline_gopher_pink.png](https://raw.githubusercontent.com/nlepage/gophers/main/thumbnails/gophers/trampoline_gopher_pink.png)](https://github.com/nlepage/gophers/blob/main/gophers/trampoline_gopher_pink.png)
 [![waving_gopher_blue.png](https://raw.githubusercontent.com/nlepage/gophers/main/thumbnails/gophers/waving_gopher_blue.png)](https://github.com/nlepage/gophers/blob/main/gophers/waving_gopher_blue.png)
 [![waving_gopher_pink.png](https://raw.githubusercontent.com/nlepage/gophers/main/thumbnails/gophers/waving_gopher_pink.png)](https://github.com/nlepage/gophers/blob/main/gophers/waving_gopher_pink.png)
+[![wwg_paris_nobg.png](https://raw.githubusercontent.com/nlepage/gophers/main/thumbnails/gophers/wwg_paris_nobg.png)](https://github.com/nlepage/gophers/blob/main/gophers/wwg_paris_nobg.png)
+[![wwg_paris_round.png](https://raw.githubusercontent.com/nlepage/gophers/main/thumbnails/gophers/wwg_paris_round.png)](https://github.com/nlepage/gophers/blob/main/gophers/wwg_paris_round.png)
+[![z-gopher-g.png](https://raw.githubusercontent.com/nlepage/gophers/main/thumbnails/gophers/z-gopher-g.png)](https://github.com/nlepage/gophers/blob/main/gophers/z-gopher-g.png)
+[![z-gopher.png](https://raw.githubusercontent.com/nlepage/gophers/main/thumbnails/gophers/z-gopher.png)](https://github.com/nlepage/gophers/blob/main/gophers/z-gopher.png)
 
 ## Dukes
 
